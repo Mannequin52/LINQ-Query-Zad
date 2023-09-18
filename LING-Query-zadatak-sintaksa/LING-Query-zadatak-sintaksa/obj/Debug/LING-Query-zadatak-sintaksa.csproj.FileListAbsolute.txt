@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\LING-Query-zadatak-sintaksa\LING-Query-zadatak-sintaksa\bin\Debug\LING-Query-zadatak-sintaksa.exe.config
+C:\Users\ucenik\Documents\LING-Query-zadatak-sintaksa\LING-Query-zadatak-sintaksa\bin\Debug\LING-Query-zadatak-sintaksa.exe
+C:\Users\ucenik\Documents\LING-Query-zadatak-sintaksa\LING-Query-zadatak-sintaksa\bin\Debug\LING-Query-zadatak-sintaksa.pdb
+C:\Users\ucenik\Documents\LING-Query-zadatak-sintaksa\LING-Query-zadatak-sintaksa\obj\Debug\LING-Query-zadatak-sintaksa.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\LING-Query-zadatak-sintaksa\LING-Query-zadatak-sintaksa\obj\Debug\LING-Query-zadatak-sintaksa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\LING-Query-zadatak-sintaksa\LING-Query-zadatak-sintaksa\obj\Debug\LING-Query-zadatak-sintaksa.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\LING-Query-zadatak-sintaksa\LING-Query-zadatak-sintaksa\obj\Debug\LING-Query-zadatak-sintaksa.exe
+C:\Users\ucenik\Documents\LING-Query-zadatak-sintaksa\LING-Query-zadatak-sintaksa\obj\Debug\LING-Query-zadatak-sintaksa.pdb
